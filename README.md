@@ -1,3 +1,9 @@
-# Chat app
+# CRUD App
+   Tech Stack
 
-This basic CRUD app utilizes technologies like JSP, Servlets, MySQL and more tools like Maven and Git.
+    Frontend: HTML, CSS, Bootstrap
+    Backend: Java Servlets, JSP (JavaServer Pages)
+    Database: MySQL
+    Server: Apache Tomcat
+    Build Tool: Maven
+    Version Control: Git
